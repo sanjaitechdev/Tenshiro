@@ -1,0 +1,16 @@
+
+F:\App\frontend\src\pages\Domains.jsx
+  5:10  error  'useLanguage' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+F:\App\frontend\src\pages\Landing.jsx
+  6:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+F:\App\frontend\src\pages\Register.jsx
+  6:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+F:\App\frontend\src\pages\RoleAccess.jsx
+   5:10  error    'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u                                no-unused-vars
+  64:8   warning  React Hook useEffect has a missing dependency: 'sections'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+✖ 5 problems (4 errors, 1 warning)
+
